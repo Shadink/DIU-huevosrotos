@@ -22,8 +22,6 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -33,31 +31,35 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Informar y ser claros con el usuario, además de tener un buen rendimiento en la página web.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Arte de comer sano: Un proyecto Sevillano de nutrición y talleres con una página web muy estilizada y bonita, aunque es un poco difícil de navegar.
+    Sabores: Proyecto Barcelonés que realiza cursos de cocina. Aunque el estilo de su página es más simple, es muy fácil navegar por ella y reservar talleres.
+    Granada Cooking: Proyecto Granadino de cursos de cocina. Aunque su página de inicio es bonita, su navegación es bastante complicada, con muchos carruseles que no tienen sentido en la página de inicio y cuyo calendario se ralentiza mucho, a veces ni siquiera se carga la información.
+    Hemos elegido Sabores como el mejor proyecto porque nos parece muy llamativo y el que más hace crecer el interés por los cursos. Incluso a nosotros nos interesó bastante y estuvimos un rato mirando la página. Además, tienen una visita virtual, que permite a quien pretenda reservar un curso investigar cómo va a ser el espacio que van a utilizar, además de aumentar el interés, ya que están dispuestos a mostrar el lugar entero.
+
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Hemos seleccionado a estas personas porque representan dos tipos diferentes de usuarios que pueden estar interesados en estos proyectos. Fernando puede representar al mercado más joven y Federico al más adulto, cada uno con experiencias de cocina diferentes. Además, el hecho de que Fernando sea informático hace que pueda tener opiniones más técnicas sobre la página, mientras que Federico, que es una persona más mayor y escritor, no tiene ni idea de estas tecnologías y tiene una visión más “inocente”.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Hemos escogido estas experiencias porque nos parecen cosas realistas que podrían querer estas Personas: Fernando, para llevar un estilo de vida más saludable en su vida independiente; Federico, para hacerle un regalo a su mujer. Estos dos deseos tienen su diferencia: uno es una persona que se está asentando en la vida, el otro ya se ha asentado hace tiempo, y es interesante ver los puntos de vista de cada uno.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: https://github.com/Shadink/DIU-huevosrotos/blob/master/P1/UsabilityReviewP1.pdf
+>>> - Valoración final (numérica): 69
+>>> - El principal problema de la página elegida (Granada Cooking) es lo que consideramos más importante: la dificultad generada para navegarla. Esta página está llena de botones y apartados que no llevan a ninguna parte, y algunas veces no muestran lo que dicen que se muestra según el título. La única forma de revisar los talleres en un orden específico o con algún criterio es mediante el calendario, y el mismo carga muy lento, a veces ni se muestra.
 
 
 ## Paso 2. UX Design  
