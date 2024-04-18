@@ -5,11 +5,11 @@ Grupo: DIU1_01AABB.  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> CompArte
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Talleres artísticos donde el objetivo es más bien desconectar y divertirse, además de aprender algo nuevo.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -78,9 +78,8 @@ Miembros
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> a. Hacer talleres más colaborativos, con la intención principal de pasárselo bien.
+>>> b. Incentivar a la gente a repetir y llevar amigos con descuentos, promociones y un sistema de puntos.
 
 
 
