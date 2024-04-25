@@ -74,7 +74,8 @@ Miembros
 
  Interesante | Críticas     
 | ------------- | -------
-  Preguntas | Nuevas ideas
+  La forma de captar al usuario | El sitio era muy confuso de navegar
+  Los calendarios son una buena forma de organizar una página web que ofrece este tipo de servicios. | El rendimiento del sitio, sobre todo en los calendarios, su aspecto más importante, era malo.
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
