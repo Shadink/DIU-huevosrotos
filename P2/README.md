@@ -25,6 +25,7 @@
 
 
 ### Prototipo Lo-FI Wireframe 
+>>> El breakpoint tiene un problema que no hemos podido solucionar, no sabemos si es por el plugin, pero hemos entregado lo que hemos podido hacer y si es necesario lo corregiremos en el futuro.
 
 
 ### Conclusiones  
