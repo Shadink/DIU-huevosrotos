@@ -74,11 +74,10 @@ Miembros
 
  Interesante | Críticas     
 | ------------- | -------
-  La forma de captar al usuario | El sitio era muy confuso de navegar
+  La forma de captar al usuario. | El sitio era muy confuso de navegar.
   Los calendarios son una buena forma de organizar una página web que ofrece este tipo de servicios. | El rendimiento del sitio, sobre todo en los calendarios, su aspecto más importante, era malo.
+
   
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> a. Hacer talleres más colaborativos, con la intención principal de pasárselo bien.
 >>> b. Incentivar a la gente a repetir y llevar amigos con descuentos, promociones y un sistema de puntos.
 
@@ -86,29 +85,40 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Lo que hace a nuestro proyecto diferente de otros es el sistema de puntos y cupones que implementamos, con el cual se incentiva la participación en varios talleres al entregar puntos a los usuarios registrados por taller completado. Con esos puntos, después, se pueden pagar cupones exclusivos para miembros. De esta forma logramos crear una comunidad que vaya aumentando poco a poco y sea fiel a nuestro producto.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Nuestros user flow diferencian entre una reserva por parte de alguien que no tiene cuenta y una reserva por parte de alguien con cuenta en nuestra web.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+Buscar | Desde cualquier punto de la página, se puede buscar un taller concreto indicando el nombre y otros filtros.
+Cuenta	| Lleva al perfil del usuario, donde se puede ver su información, sus puntos y promociones canjeables.
+Contacto | Lleva a la página de contacto y permite enviar un mensaje a la organización directamente, además de mostrar información sobre la misma.
+Iniciar Sesión/Registrarse | Lleva a una página donde el usuario puede iniciar sesión o crear una cuenta para poder disfrutar de los privilegios de los miembros.
+RRSS | Un apartado que muestra las RRSS de la organización, como Twitter, Instagram o Facebook, en una vista previa.
+Calendario | Lleva al calendario, que ordena por fecha en una cuadrícula cada taller de forma que el usuario ve la información de forma más fácil.
+Promociones | Lleva a la página de promociones, donde el usuario puede ver promociones disponibles para los talleres.
+Inicio | Lleva a la página de inicio.
+Cupones | Indican promociones disponibles para todo el mundo.
+Ver local en 3D | Permite al usuario ver con detalle dónde se realizará el taller mediante una vista 360º.
+Pagar | Lleva a la página de pago, donde se piden los datos pertinentes y se realiza la acción.
+Previa Taller | Previsualización que, al ser pinchada, lleva a la página del taller. Incluye nombre y una descripción corta del taller.
+Cupones Exclusivos | Indican promociones únicamente canjeadas por usuarios, disponibles para usar en un pago.
+Formas de pago | Desplegable desde el que el usuario elige la forma de pago antes de pagar (PayPal, Tarjeta, Bizum, etc)
+Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos. Solamente para usuarios registrados.
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Utilizamos el plugin breakpoints para permitir el cambio de tamaño de la pantalla. Nuestra filosofía es unir en columnas los elementos si están separados horizontalmente.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
