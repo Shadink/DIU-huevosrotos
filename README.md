@@ -131,7 +131,7 @@ Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) <br>
 >>> Incluir Logotipo<br>
->>> Para el logotipo hemos buscado logos en [Tailor Brands](https://www.tailorbrands.com/es/logo-maker) como inspiración y lo hemos recreado en paint.net usando iconos de pinceles en internet. La idea es que los dos pinceles representan dos personas pintando juntas, lo cual creemos que refleja los ideales de la organización: desarrollar la creatividad y la cultura en grupos de gente con la intención de socializar mediante el arte.
+>>> Para el logotipo hemos buscado logos en [Tailor Brands](https://www.tailorbrands.com/es/logo-maker) como inspiración y lo hemos recreado en paint.net usando iconos de pinceles en internet. La idea es que los dos pinceles representan dos personas pintando juntas, lo cual creemos que refleja los ideales de la organización: desarrollar la creatividad y la cultura en grupos de gente con la intención de socializar mediante el arte. <br>
 >>> <img src="https://github.com/Shadink/DIU-huevosrotos/assets/116192882/4d37ed32-2b86-49b2-a929-afe2e47bcaae" width="25%"><br>
 >>>También hemos creado un logotipo sin el nombre de la organización, para que en web se pueda ver mejor el nombre poniéndolo a la derecha del logo (como se ve en los wireframes)<br>
 >>> <figure><img src="https://github.com/Shadink/DIU-huevosrotos/assets/116192882/5e6f5ca9-b879-4b94-b323-b2b385d17d1c" width="25%">
