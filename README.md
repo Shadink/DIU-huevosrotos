@@ -131,7 +131,7 @@ Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> Para el logotipo hemos buscado logos en [Tailor Brands](https://www.tailorbrands.com/es/logo-maker) como inspiración y lo hemos recreado en paint.net usando iconos de pinceles en internet. La idea es que los dos pinceles representan dos personas pintando juntas, lo cual creemos que refleja los ideales de la organización: desarrollar la creatividad y la cultura en grupos de gente con la intención de socializar mediante el arte.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
