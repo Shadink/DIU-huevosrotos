@@ -12,7 +12,7 @@ Descripción:
 >>> Talleres artísticos donde el objetivo es más bien desconectar y divertirse, además de aprender algo nuevo.
 
 Logotipo: 
->>> <img src="https://github.com/Shadink/DIU-huevosrotos/assets/116192882/4d37ed32-2b86-49b2-a929-afe2e47bcaae" width="25%">
+>>> <img src="https://github.com/Shadink/DIU-huevosrotos/assets/116192882/4d37ed32-2b86-49b2-a929-afe2e47bcaae" width="25%"><br>
 >>> <figure><img src="https://github.com/Shadink/DIU-huevosrotos/assets/116192882/5e6f5ca9-b879-4b94-b323-b2b385d17d1c" width="25%"> <figcaption>Logo sin nombre para versión web</figcaption></figure>
 
 Miembros
