@@ -146,17 +146,17 @@ Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> •	Onboarding: Al iniciar la aplicación por primera vez, aparecen instrucciones para aprender cómo utilizarla. 
->>>•	Menu: En la aplicación existe un menú hamburguesa en el lado izquierdo que se abre al pulsar el botón a la izquierda del espacio superior.
->>>•	HERO image + Carousel: En el índice de la página, se muestra un carrusel con formato HERO image, con un texto que describe cada imagen.
->>>•	Search: Desde el espacio superior se puede pulsar el icono de la lupa para entrar en modo búsqueda: aparecerá una barra de búsqueda en la parte superior y se podrá escribir una actividad o promoción a buscar con el teclado emergente.
->>>•	Wizards: Al reservar un taller, en la parte superior de la pantalla aparecerá texto que indique en qué paso de la reserva se encuentra el usuario.
->>>•	Article list 5-7 Cards items: El menú de talleres populares de la pantalla de inicio se muestra con este patrón.
->>>•	Item details + actions: Los ítems del carrito se listan siguiendo este patrón. Los detalles son nombre de la actividad, precio y cantidad. Las acciones son eliminar producto o finalizar compra, también se puede cambiar la cantidad directamente desde el carrito.
->>>•	Reserva: 
->>>•	Form Input: Tenemos un formulario en la página de contacto, para que el usuario pueda contactar directamente con la organización.
->>>•	Shopping cart: Para hacer varias reservas a la vez, implementamos un carrito con funcionalidad completa que puede ser accedido desde cualquier sitio de la aplicación en el espacio superior.
->>>•	About: Tenemos apartado de contacto, allí se incluyen las redes sociales de la organización entre otras formas de contactarnos.
+>>> •	Onboarding: Al iniciar la aplicación por primera vez, aparecen instrucciones para aprender cómo utilizarla. <br>
+>>>•	Menu: En la aplicación existe un menú hamburguesa en el lado izquierdo que se abre al pulsar el botón a la izquierda del espacio superior. <br>
+>>>•	HERO image + Carousel: En el índice de la página, se muestra un carrusel con formato HERO image, con un texto que describe cada imagen. <br>
+>>>•	Search: Desde el espacio superior se puede pulsar el icono de la lupa para entrar en modo búsqueda: aparecerá una barra de búsqueda en la parte superior y se podrá escribir una actividad o promoción a buscar con el teclado emergente. <br>
+>>>•	Wizards: Al reservar un taller, en la parte superior de la pantalla aparecerá texto que indique en qué paso de la reserva se encuentra el usuario. <br>
+>>>•	Article list 5-7 Cards items: El menú de talleres populares de la pantalla de inicio se muestra con este patrón. <br>
+>>>•	Item details + actions: Los ítems del carrito se listan siguiendo este patrón. Los detalles son nombre de la actividad, precio y cantidad. Las acciones son eliminar producto o finalizar compra, también se puede cambiar la cantidad directamente desde el carrito. <br>
+>>>•	Reserva: En nuestra aplicación hay una página de reserva para la actividad elegida, en la que se introducen los datos personales necesarios y la forma de pago. <br>
+>>>•	Form Input: Tenemos un formulario en la página de contacto, para que el usuario pueda contactar directamente con la organización. <br>
+>>>•	Shopping cart: Para hacer varias reservas a la vez, implementamos un carrito con funcionalidad completa que puede ser accedido desde cualquier sitio de la aplicación en el espacio superior. <br>
+>>>•	About: Tenemos apartado de contacto, allí se incluyen las redes sociales de la organización entre otras formas de contactarnos. <br>
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
