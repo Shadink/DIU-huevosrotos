@@ -141,13 +141,23 @@ Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos
 ----
 
 
->>> Plantear Landing Page 
+>>> La Landing Page de este proyecto consiste en una página de bienvenida donde se llama la atención al usuario inmediatamente haciéndole preguntas e invitándole a entrar a la página. El lenguaje es casual y amistoso. Hay un menú dropdown en el que el usuario puede elegir el tipo de taller que quiere realizar, y dependiendo de cuál elija, se le redigirá a una página donde se le mostrarán imágenes del tipo de taller que eligió, junto a un botón para descargar la aplicación y una serie de beneficios de hacerlo.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> •	Onboarding: Al iniciar la aplicación por primera vez, aparecen instrucciones para aprender cómo utilizarla. 
+>>>•	Menu: En la aplicación existe un menú hamburguesa en el lado izquierdo que se abre al pulsar el botón a la izquierda del espacio superior.
+>>>•	HERO image + Carousel: En el índice de la página, se muestra un carrusel con formato HERO image, con un texto que describe cada imagen.
+>>>•	Search: Desde el espacio superior se puede pulsar el icono de la lupa para entrar en modo búsqueda: aparecerá una barra de búsqueda en la parte superior y se podrá escribir una actividad o promoción a buscar con el teclado emergente.
+>>>•	Wizards: Al reservar un taller, en la parte superior de la pantalla aparecerá texto que indique en qué paso de la reserva se encuentra el usuario.
+>>>•	Article list 5-7 Cards items: El menú de talleres populares de la pantalla de inicio se muestra con este patrón.
+>>>•	Item details + actions: Los ítems del carrito se listan siguiendo este patrón. Los detalles son nombre de la actividad, precio y cantidad. Las acciones son eliminar producto o finalizar compra, también se puede cambiar la cantidad directamente desde el carrito.
+>>>•	Reserva: 
+>>>•	Form Input: Tenemos un formulario en la página de contacto, para que el usuario pueda contactar directamente con la organización.
+>>>•	Shopping cart: Para hacer varias reservas a la vez, implementamos un carrito con funcionalidad completa que puede ser accedido desde cualquier sitio de la aplicación en el espacio superior.
+>>>•	About: Tenemos apartado de contacto, allí se incluyen las redes sociales de la organización entre otras formas de contactarnos.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
