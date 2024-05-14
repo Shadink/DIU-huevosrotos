@@ -167,14 +167,6 @@ Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
-
-
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
 Exportación a HTML/Flutter
