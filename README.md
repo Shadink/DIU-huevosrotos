@@ -139,7 +139,9 @@ Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+![LandingPage_page-0001](https://github.com/Shadink/DIU-huevosrotos/assets/116192882/38dcad66-5a23-45aa-934e-1ca120f73d2e)
 
+![LandingPage2-Pintura_page-0001](https://github.com/Shadink/DIU-huevosrotos/assets/116192882/1218e58d-ae73-437d-abb9-1ed94742bfb5)
 
 >>> La Landing Page de este proyecto consiste en una página de bienvenida donde se llama la atención al usuario inmediatamente haciéndole preguntas e invitándole a entrar a la página. El lenguaje es casual y amistoso. Hay un menú dropdown en el que el usuario puede elegir el tipo de taller que quiere realizar, y dependiendo de cuál elija, se le redigirá a una página donde se le mostrarán imágenes del tipo de taller que eligió, junto a un botón para descargar la aplicación y una serie de beneficios de hacerlo.
 
