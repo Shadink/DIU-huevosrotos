@@ -123,6 +123,7 @@ Puntos | Puntos disponibles con los que se pueden obtener los cupones exclusivos
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
+[UX Case Study.pptx](https://github.com/Shadink/DIU-huevosrotos/files/15355487/UX.Case.Study.pptx)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
