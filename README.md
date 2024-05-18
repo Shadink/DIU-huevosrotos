@@ -131,7 +131,10 @@ https://github.com/Shadink/DIU-huevosrotos/assets/116192882/704e7536-0978-4864-b
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> [El mockup en Figma.
+](https://www.figma.com/proto/Qfmy0NfNxUEQ3z3gPPgFFM/Untitled?node-id=88-2&t=Guf77DH4mG78ZH0R-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=88%3A2&show-proto-sidebar=1)
+<br>
+Aquí hay un vídeo explicativo:
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
