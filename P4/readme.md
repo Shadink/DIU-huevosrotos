@@ -54,15 +54,4 @@
   </tr>
 </table>
 
-Elección y características
-
-* A/B Testing. 
-
-
-* Tareas realizadas 
-
-
-* Usability Report de Caso B
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-
-* Conclusiones
+* Creemos que esta práctica nos ha enseñado a conocer la calidad de una aplicación de formas bastante sencillas. Lo más difícil para nosotros fue utilizar Gaze Recorder, ya que a uno de nosotros directamente la página no le funcionó, y el otro tenía que tener una iluminación muy específica para la detección de los ojos. Además, tuvimos que quitarnos las gafas para que no hubiera reflejos y, como resultado de ver las imágenes borrosas, aunque es una buena forma de asegurarse de que lo que se tiene que destacar se destaca realmente, eso hacía que se presuponiera que todos los usuarios tenían problemas de visión y podría no ser una forma demasiado justa de hacer Eye Tracking.
